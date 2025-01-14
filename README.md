@@ -1,7 +1,14 @@
 
 # Admin Finder Tool
 
-![ASCII Art Header](https://via.placeholder.com/728x90?text=Admin+Finder+Tool)
+ █████╗ ██████╗ ███╗   ███╗██╗███╗   ██╗      ███████╗██╗██████╗ ███████╗
+██╔══██╗██╔══██╗████╗ ████║██║████╗  ██║      ██╔════╝██║██╔══██╗██╔════╝
+███████║██║  ██║██╔████╔██║██║██╔██╗ ██║█████╗███████╗██║██████╔╝█████╗  
+██╔══██║██║  ██║██║╚██╔╝██║██║██║╚██╗██║╚════╝╚════██║██║██╔═══╝ ██╔══╝  
+██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║      ███████║██║██║     ███████╗
+╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝      ╚══════╝╚═╝╚═╝     ╚══════╝
+      Admin Finder Tool by TuguPhantom
+=======================================================================
 
 Admin Finder adalah alat sederhana berbasis Bash untuk menemukan halaman admin dari suatu situs web dengan melakukan pemindaian terhadap path yang umum digunakan. Skrip ini dilengkapi dengan tampilan warna-warni untuk memberikan pengalaman pengguna yang lebih menarik.
 
